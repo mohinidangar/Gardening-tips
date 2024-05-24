@@ -1,0 +1,40 @@
+html {
+    background-color: #1A4D2E;
+    font-size: 1rem;
+    font-family: 'Avenir Next LT Pro',Times New Roman, serif;
+    color: #F5EFE6;
+}
+.intro {
+    margin: 5rem;
+    overflow: hidden;
+    
+}
+
+.intro img {
+    float: left;
+    max-width: 20rem;
+    max-height: 30rem;
+    margin: 0 5rem 5rem 5rem;
+}
+
+.intro p {
+    
+    margin: 10rem 0 10rem 10rem;
+    font-size: 1.5rem;
+}
+
+.intro h1 {
+    text-align: center;
+}
+
+.goals h2 {
+    text-align: center;
+}
+
+.goals p {
+    margin: 10rem;
+}
+
+.contact-details {
+    text-align: center;
+}

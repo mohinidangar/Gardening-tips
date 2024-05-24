@@ -1,0 +1,39 @@
+html {
+    background-color: #1A4D2E;
+    font-size: 1rem;
+    font-family: 'Avenir Next LT Pro',Times New Roman, serif;
+    color: #F5EFE6;
+    margin: 8rem;
+}
+.content a {
+        text-decoration: none;
+        color: #E8DFCA; 
+        font-weight: lighter; 
+        padding: 3rem;
+        font-size: 3rem;
+        border: thick solid yellow;
+        background-color: blue ;
+}
+
+.content a:hover {  
+    color: yellow;  
+  }
+
+.content {
+    padding: 5rem;
+    overflow: hidden;
+    float: left;
+}
+.plants {
+    overflow: hidden;
+}
+.plants img {
+   float: left;
+   width: 40rem;
+   height: 40rem;
+   margin: 1rem;
+   padding-right: 2rem;
+}
+.plants h2 {
+    font-size: 3rem;
+}
